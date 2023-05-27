@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.blob-svg{
+    position: relative;
+    bottom: 300px;
+    right: 345px;
+}
+
+.carousel{
+    position: relative;
+    bottom: 700px;
+}
+
+.slide{
+    width: 100%;
+}
+
+.index-body{
+    margin: 50px;
+    position: relative;
+    bottom: 530px;
+   
+}
+
+.popular-this-week__articles > p{
+font-size: 20px;
+line-height: 32px;
+font-weight: 600;
+color: rgb(134, 142, 150);
+}
+
+.popular-this-week__articles > h2{
+    color: rgb(134, 142, 150);
+
+}
+
+.popular-this-week__images-section1{
+    display: flex;
+    margin-top: 30px;
+}
+
+.popular-this-week__images__first > img{
+    width: 400px;
+}
+
+.popular-this-week__images__first > a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    
+}
+
+.popular-this-week__images__first:hover {  
+    transition: 400ms;
+    transition-timing-function: linear;
+    transform: scale(1.1,1.1);
+	transform-origin: center;
+ 
+}
+
+.popular-this-week__images__second > img{
+    margin-left: 180px;
+    width: 600px;
+}
+
+.popular-this-week__images__second__articles{
+    position: relative;
+    bottom: 450px;
+    left: 30px;
+}
+
+.popular-this-week__images__second__articles > a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    
+}
+
+.popular-this-week__images__second:hover {  
+    transition: 400ms;
+    transition-timing-function: linear;
+    transform: scale(1.1,1.1);
+	transform-origin: center;
+ 
+}
+
+
+.popular-this-week__images-section2{
+    display: flex;
+    
+}
+
+.popular-this-week__images__third > img{
+    width: 500px;
+    margin-left: 100px;
+}
+
+.popular-this-week__images__third__articles > a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    
+}
+
+.popular-this-week__images__third:hover {  
+    transition: 400ms;
+    transition-timing-function: linear;
+    transform: scale(1.1,1.1);
+	transform-origin: center;
+}
+
+.popular-this-week__images__third__articles{
+    position: relative;
+    bottom: 450px;
+    left: 30px;
+}
+
+.popular-this-week__images__fourth > img{
+    width: 300px;
+    margin-left: 200px;
+}
+
+.popular-this-week__images__fourth__articles > a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    
+}
+
+.popular-this-week__images__fourth:hover {  
+    transition: 400ms;
+    transition-timing-function: linear;
+    transform: scale(1.1,1.1);
+	transform-origin: center;
+ 
+}
+
+.popular-this-week__images__fourth__articles{
+    position: relative;
+    left: 210px;
+}

@@ -4,15 +4,15 @@
     box-sizing: border-box;
 }
 
-.blob-svg{
+.blob{
     position: relative;
-    bottom: 300px;
+    bottom: 320px;
     right: 345px;
 }
 
 .carousel{
     position: relative;
-    bottom: 700px;
+    bottom: 620px;
 }
 
 .slide{
@@ -38,50 +38,50 @@ color: rgb(134, 142, 150);
 
 }
 
-.popular-this-week__images-section1{
+.imagessection{
     display: flex;
     margin-top: 30px;
 }
 
-.popular-this-week__images__first > img{
+.images1 > img{
     width: 400px;
 }
 
-.popular-this-week__images__first > a{
+.images1 > a{
     text-decoration: none;
     color: black;
     font-weight: bold;
     
 }
 
-.popular-this-week__images__first:hover {  
-    transition: 400ms;
+.images1:hover {  
+    transition: 395ms;
     transition-timing-function: linear;
     transform: scale(1.1,1.1);
 	transform-origin: center;
  
 }
 
-.popular-this-week__images__second > img{
-    margin-left: 180px;
-    width: 600px;
+.images2 > img{
+    margin-left: 172px;
+    width: 596px;
 }
 
-.popular-this-week__images__second__articles{
+.imagessecond2{
     position: relative;
-    bottom: 450px;
-    left: 30px;
+    bottom: 448px;
+    left: 29px;
 }
 
-.popular-this-week__images__second__articles > a{
+.imagessecond2 > a{
     text-decoration: none;
     color: black;
     font-weight: bold;
     
 }
 
-.popular-this-week__images__second:hover {  
-    transition: 400ms;
+.images2:hover {  
+    transition: 395ms;
     transition-timing-function: linear;
     transform: scale(1.1,1.1);
 	transform-origin: center;
@@ -89,49 +89,49 @@ color: rgb(134, 142, 150);
 }
 
 
-.popular-this-week__images-section2{
+.imagessection2{
     display: flex;
     
 }
 
-.popular-this-week__images__third > img{
-    width: 500px;
-    margin-left: 100px;
+.imagesthird > img{
+    width: 503px;
+    margin-left: 104px;
 }
 
-.popular-this-week__images__third__articles > a{
+.imagesthird3 > a{
     text-decoration: none;
     color: black;
     font-weight: bold;
     
 }
 
-.popular-this-week__images__third:hover {  
+.imagesthird:hover {  
     transition: 400ms;
     transition-timing-function: linear;
     transform: scale(1.1,1.1);
 	transform-origin: center;
 }
 
-.popular-this-week__images__third__articles{
+.imagesthird3{
     position: relative;
-    bottom: 450px;
-    left: 30px;
+    bottom: 440px;
+    left: 32px;
 }
 
-.popular-this-week__images__fourth > img{
-    width: 300px;
-    margin-left: 200px;
+.imagesfourth > img{
+    width: 310px;
+    margin-left: 203px;
 }
 
-.popular-this-week__images__fourth__articles > a{
+.imagesfourth4 > a{
     text-decoration: none;
     color: black;
     font-weight: bold;
     
 }
 
-.popular-this-week__images__fourth:hover {  
+.imagesfourth:hover {  
     transition: 400ms;
     transition-timing-function: linear;
     transform: scale(1.1,1.1);
@@ -139,7 +139,7 @@ color: rgb(134, 142, 150);
  
 }
 
-.popular-this-week__images__fourth__articles{
+.imagesfourth4{
     position: relative;
-    left: 210px;
+    left: 212px;
 }
